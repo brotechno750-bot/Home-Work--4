@@ -389,7 +389,6 @@ align-items: center;
     margin: auto;
     width: 1520px;
 height: 880px;
-background-color: green;
 
 }
 .div5 h2{
@@ -403,13 +402,13 @@ margin-bottom: 80px;
 .div5lbog{
     width: 1520px;
 height: 744px;
-background-color: aqua;
+
 
 }
 .div5blog2{
     width: 1520px;
 height: 357px;
-background-color: #F178B6;
+
 display: flex;
 align-items: center;
 justify-content: center;
@@ -424,7 +423,7 @@ border-radius: 50px;
 .div5blog3{
     width: 538px;
 height: 279px;
-background-color: red;
+
 }
 .div5blog3 h3{
     font-family: Poppins;
@@ -460,7 +459,7 @@ font-size: 20px;
 .div6{
     width: 1113px;
 height: 496.368408203125px;
-background-color: bisque;
+
 margin: auto;
 }
 .div6 h2{
@@ -474,7 +473,7 @@ text-align: center;
     width: 1113px;
 height: 360.368408203125px;
 gap: 32px;
-background-color: gold;
+
 margin-top: 64px;
 display: flex;
 align-items: center;
