@@ -388,3 +388,74 @@ justify-content: center;
 align-items: center;
 
 }
+.div5{
+    margin: auto;
+    width: 1520px;
+height: 880px;
+background-color: green;
+
+}
+.div5 h2{
+    font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 48px;
+text-align: center;
+margin-bottom: 80px;
+}
+.div5lbog{
+    width: 1520px;
+height: 744px;
+background-color: aqua;
+
+}
+.div5blog2{
+    width: 1520px;
+height: 357px;
+background-color: #F178B6;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.div5blog2 img{
+    width: 548px;
+height: 357px;
+border-radius: 50px;
+
+}
+.div5blog3{
+    width: 538px;
+height: 279px;
+background-color: red;
+}
+.div5blog3 h3{
+    font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 38px;
+margin-bottom: 20px;
+}
+.div5blog3 p{
+    font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+margin-bottom: 20px;
+}
+.div5pres{
+    display: flex;
+}
+.div5pres img{
+ width: 24px;
+height: 24px;
+}
+.div5pres p{
+    font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 20px;
+
+}
+.div5blog2revers{
+    flex-direction: row-reverse;
+}
