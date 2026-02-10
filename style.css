@@ -153,3 +153,110 @@ border-radius: 63px;
 margin: 0px 10px;
 
 }
+
+.div2{
+    width: 1520px;
+height: 1098px;
+margin: auto;
+background-color: aqua;
+margin-top: 100px;
+}
+.pesh{
+    text-align: center;
+font-weight: 600;
+font-size: 48px;
+margin-bottom: 81px;
+
+}
+.div2katalogs{
+    width: 1520px;
+height: 962px;
+
+gap: 24px;
+background-color: gold;
+}
+.div2kat{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+.div2katalog1{
+    width: 357px;
+height: 469px;
+border-radius: 50px;
+background-color: white;
+box-shadow: 10px 10px  10px #00000026;
+margin-bottom: 20px;
+}
+.miami{
+font-weight: 600;
+font-size: 24px;
+text-align: center;
+padding-top: 32px;
+padding-bottom: 24px;
+
+}
+.div2katalog1 img{
+    width: 293px;
+height: 239px;
+border-radius: 40px;
+margin: 0px 32px;
+margin-bottom: 24px;
+
+}
+.div2text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+.div2text p{
+font-weight: 500;
+font-size: 14px;
+color: #00000080;
+}
+.green{
+    background-color: #D6EDEB;
+    border-radius: 40px;
+    padding: 3px 10px;
+    color: #2D8985;
+}
+.red{
+    background-color: #FCDDEC;
+    color: #F178B6;
+    border-radius: 40px;
+    padding: 3px 10px;
+}
+.div2narh{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 48px;
+}
+.div2narh p{
+    font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+
+}
+.div2narh span{font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 18px;
+color: #00000080;
+
+
+}
+.div2narh button{
+    width: 104.44999694824219px;
+height: 37px;
+border-radius: 40px;
+background-color: #177BA5;
+color: white;
+font-weight: 500;
+font-size: 14px;
+border: none;
+}
