@@ -416,6 +416,7 @@ background-color: #F178B6;
 display: flex;
 align-items: center;
 justify-content: center;
+margin-bottom: 20px;
 }
 .div5blog2 img{
     width: 548px;
@@ -459,3 +460,61 @@ font-size: 20px;
 .div5blog2revers{
     flex-direction: row-reverse;
 }
+.div6{
+    width: 1113px;
+height: 496.368408203125px;
+background-color: bisque;
+margin: auto;
+}
+.div6 h2{
+    font-family: Poppins;
+font-weight: 600;
+font-style: SemiBold;
+font-size: 48px;
+text-align: center;
+}
+.div6blog{
+    width: 1113px;
+height: 360.368408203125px;
+gap: 32px;
+background-color: gold;
+margin-top: 64px;
+display: flex;
+align-items: center;
+}
+.div6text{
+    width: 616px;
+height:500px;
+display: flex;
+align-items: center;
+
+}
+.div6pic{
+    min-width: 616px;
+height: 245px;
+border-radius: 50px;
+background-color: #FFFFFF;
+text-align: center;
+}
+.div6pic img{
+    
+height: 83px;
+border-radius: 50px;
+margin-top: -50px;
+margin-bottom: 23px;
+}
+.div6pic h3{
+    margin-bottom: 31px;
+    font-family: Poppins;
+font-weight: 800;
+font-style: Medium;
+font-size: 20px;
+}
+.div6pic p{
+    font-family: Poppins;
+font-weight: 500;
+font-style: Regular;
+font-size: 24px;
+
+}
+
