@@ -1,13 +1,155 @@
-*{
+* {
     margin: 0px;
 }
-.div1{
-    width: 1520px;
-   height: 874px;
-   background-image: url(./bg.png);
-   background-repeat: no-repeat;
-   background-size: 100%;
-   margin: auto;
 
+.div1 {
+    width: 1520px;
+    height: 874px;
+    background-image: url(./bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto;
+
+
+}
+
+.div1text1 {
+    padding-top: 58px;
+}
+
+.div1text {
+    width: 1120px;
+    height: 72px;
+    background-color: aqua;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.div1text a {
+    font-weight: 500;
+    font-size: 48px;
+    color: white;
+
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    gap: 33px;
+}
+
+.home p,
+.home a {
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.home p {
+    margin-right: 20px;
+}
+
+.div1 h1 {
+    font-weight: 800;
+    font-size: 90px;
+    color: white;
+    text-align: center;
+    margin-top: 222px;
+}
+
+.div1icon {
+    margin-left: 340px;
+    margin-top: 104px;
+}
+
+.div1icon1 {
+    width: 330px;
+    height: 84px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #FFFFFFB2;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.div1icon img {
+    width: 24px;
+    height: 24px;
+}
+
+.div1icon1 button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 133px;
+    height: 52px;
+    border-radius: 40px;
+    font-weight: 500;
+    font-size: 24px;
+    background-color: #177BA5;
+    border: none;
+    color: white;
+    gap: 11px;
+}
+
+.hotel1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 11px;
+}
+
+.hotel1 p {
+    font-weight: 500;
+    font-size: 24px;
+
+}
+
+.div1icon2 {
+    width: 942.343017578125px;
+    height: 218px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: #FFFFFFB2;
+    box-shadow: 0px 10px 50px black;
+
+}
+
+.div1icon3 {
+    width: 384.77349853515625px;
+    height: 139px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    background-color: #ffffffcb;
+}
+.from p{
+font-weight: 500;
+font-size: 18px;
+color: #00000080;
+margin-bottom: 12px;
+}
+.from h3{
+font-weight: 500;
+font-size: 24px;
+color: #292D32;
+}
+.div1icon3 img{
+    width: 40px;
+height: 40px;
+border-radius: 63px;
+margin: 0px 10px;
 
 }
